@@ -1,1 +1,3 @@
-#TAREA 1
+# PARADIGMAS
+
+
