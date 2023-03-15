@@ -15,7 +15,7 @@ La abstracción como herramienta para el modelado. El modelado en la programaci�
 
 ## ENCAPSULAMIENTO
 Se denomina encapsulamiento al ocultamiento del estado, es decir, de los datos miembro, de un objeto de manera que sólo se puede cambiar mediante las operaciones definidas para ese objeto. La encapsulación es importante porque permite definir niveles de visibilidad para los elementos de la clase. Estos niveles de visibilidad definen los derechos de acceso a los datos en función de si se accede a ellos mediante un método de la propia clase, de una clase heredada o de cualquier otra clase. Los problemas que evita es el acceso a los datos por parte de los clientes, de una manera que podría exponer detalles de Implementación ocultos o violar la invariancia de estado mantenida por los métodos y previene que desde fuera se pueda manipular el estado de los objetos.
-![alt text]( https://imgur.com/rIkjMor "EJEMPLO DE ENCAPSULAMIENTO")
+![alt text](https://i.imgur.com/HFTj1TI.png "EJEMPLO DE ENCAPSULAMIENTO")
 ## HERENCIA
 Las herencias permiten crear clases que reutilizan el código de la clase principal o de la clase padre para evitar reciclar los códigos y que de esa manera sean mas limpios y fluidos.
 //imagen de herencia
