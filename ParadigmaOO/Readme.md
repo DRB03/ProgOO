@@ -35,7 +35,7 @@ Hoy en día, UML (“Unified Modeling Language”) esta consolidado como el leng
 3. Lucidchart: Software de gráficos basado en web
 4. IBM Rational Rhapsody: Entorno de desarrollo gráfico para el desarrollo y validación de software basado en modelos.
 
-## PROPUESTA MAQUINA EXPWNDEDORA
+## PROPUESTA MAQUINA EXPENDEDORA
 Basicamente la idea consiste una pequeña maquina expendedora de productos para su uso en un lugar adecuado.
 ![alt text](https://i.imgur.com/KCpuMPN.jpg "DIAGRAMA UML DE LA PROPUESTA")
 
