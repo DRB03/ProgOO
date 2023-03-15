@@ -1,4 +1,4 @@
-# PARADIGMAS
+# EL PARADIGMA OO  
 Se denominan paradigmas de programación a las formas de clasificar los lenguajes de programación en función de sus características. Los idiomas se pueden clasificar en múltiples paradigmas.
 Algunos paradigmas se ocupan principalmente de las implicancias para el modelo de ejecución del lenguaje, como permitir efectos secundarios o si la secuencia de operaciones está definida por el modelo de ejecución. Otros paradigmas se refieren principalmente a la forma en que se organiza el código, como agrupar un código en unidades junto con el estado que modifica el código. Sin embargo, otros se preocupan principalmente por el estilo de la sintaxis y la gramática.
 
@@ -34,5 +34,9 @@ Hoy en día, UML (“Unified Modeling Language”) esta consolidado como el leng
 2. MagicDraw: Software propietario con licencia (Single, Floating, Mobile)
 3. Lucidchart: Software de gráficos basado en web
 4. IBM Rational Rhapsody: Entorno de desarrollo gráfico para el desarrollo y validación de software basado en modelos.
+
+## PROPUESTA MAQUINA EXPWNDEDORA
+Basicamente la idea consiste una pequeña maquina expendedora de productos para su uso en un lugar adecuado.
+![alt text](https://i.imgur.com/KCpuMPN.jpg "DIAGRAMA UML DE LA PROPUESTA")
 
 
