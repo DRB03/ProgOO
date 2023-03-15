@@ -18,7 +18,7 @@ Se denomina encapsulamiento al ocultamiento del estado, es decir, de los datos m
 ![alt text](https://i.imgur.com/HFTj1TI.png "EJEMPLO DE ENCAPSULAMIENTO")
 ## HERENCIA
 Las herencias permiten crear clases que reutilizan el código de la clase principal o de la clase padre para evitar reciclar los códigos y que de esa manera sean mas limpios y fluidos.
-//imagen de herencia
+![alt text](https://i.imgur.com/sVsUdPg.png "EJEMPLO DE HERENCIA")
 
 # LENGUAJE UNIFICADO DE MODELADO(UML)
 El Lenguaje Unificado de Modelado (UML) fue creado para forjar un lenguaje de modelado visual común y semántica y sintácticamente rico para la arquitectura, el diseño y la implementación de sistemas de software complejos, tanto en estructura como en comportamiento. UML tiene aplicaciones más allá del desarrollo de software, p. ej., en el flujo de procesos en la fabricación.
